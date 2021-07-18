@@ -1,0 +1,29 @@
+img { 
+ height: 300px
+}
+
+body {
+  background:aliceblue;
+  color: blue;
+}
+
+#wrapper {
+  width:60%;
+  margin: auto;
+  margin-top: 30px;
+
+}
+
+body {
+  background-image: url('SunsetP1.jpg');
+  background-size: cover;
+}
+
+li {
+  list-style-image: url('sunntface.png');
+}
+
+.specialborder {
+  boarder-image: url("picksky.jpg");
+  
+}
